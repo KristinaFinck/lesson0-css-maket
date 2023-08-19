@@ -1,0 +1,45 @@
+import React from 'react';
+import {Card} from "./components/card.styled";
+import {Rectangular} from "./components/rectangular.styled";
+import styled from 'styled-components';
+import { ButtonLeft, ButtonRight } from './components/buttons.styled';
+
+
+
+function App() {
+    return (
+        <div className="App">
+            <Card>
+                <Rectangular></Rectangular>
+                <Text>
+                    <Headline>Нeadline</Headline>
+                    <Paragraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque optio sed tempora
+                        totam. Aut, debitis deleniti minus obcaecati</Paragraph>
+                </Text>
+                <ButtonLeft>See more</ButtonLeft>
+                <ButtonRight>Save</ButtonRight>
+            </Card>
+        </div>
+    );
+}
+
+const Text = styled.div`
+  font-family: Inter, sans-serif;
+  margin-right: 20px;
+  margin-left: 20px;
+`
+
+const Headline = styled.h1`
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+`
+const Paragraph = styled.p`
+color: grey;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+
+`
+
+export default App;
