@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lesson0-css-maket/static/css/main.0512c44b.css",
+    "main.js": "/lesson0-css-maket/static/js/main.1fd7bd51.js",
+    "static/js/787.28cb0dcd.chunk.js": "/lesson0-css-maket/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image.png": "/lesson0-css-maket/static/media/image.924ce9ac013f1ac96fb8.png",
+    "index.html": "/lesson0-css-maket/index.html",
+    "main.0512c44b.css.map": "/lesson0-css-maket/static/css/main.0512c44b.css.map",
+    "main.1fd7bd51.js.map": "/lesson0-css-maket/static/js/main.1fd7bd51.js.map",
+    "787.28cb0dcd.chunk.js.map": "/lesson0-css-maket/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0512c44b.css",
+    "static/js/main.1fd7bd51.js"
+  ]
+}
