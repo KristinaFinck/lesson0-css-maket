@@ -14,7 +14,7 @@ function App() {
                 <Text>
                     <Headline>Нeadline</Headline>
                     <Paragraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque optio sed tempora
-                        totam. Aut, debitis deleniti minus obcaecati</Paragraph>
+                        totam. Aut, debitis deleniti minus obcaecati Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab corporis, ea fuga fugiat ipsam iusto maiores maxime, neque nesciunt nostrum odio officiis quo quod, repellat velit. Expedita porro possimus similique. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo possimus reiciendis voluptate voluptates. Cupiditate distinctio esse illo quos, ratione sit vel! Cupiditate dignissimos doloremque eveniet ex in iure laboriosam odio.</Paragraph>
                 </Text>
                 <ButtonLeft>See more</ButtonLeft>
                 <ButtonRight>Save</ButtonRight>
